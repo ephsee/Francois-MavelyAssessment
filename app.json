@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Francois-MavelyAssessment",
+    "slug": "Francois-MavelyAssessment",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Francois-MavelyAssessment"
+}
